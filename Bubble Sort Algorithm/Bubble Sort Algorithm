@@ -1,0 +1,5 @@
+Bubble Sort Algorithm: It is one of the most common sorting algorithm,also known as Exchange Sorting Algorithm.It
+works by repeatedly stepping throughout the list to be sorted, comparing two items at a time and swapping them if
+they are in the wrong order. The pass through the list is duplicated until no swaps are desired, which means the
+list is sorted.
+
