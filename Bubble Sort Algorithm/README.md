@@ -107,7 +107,7 @@ equals to n^2 (Approximately)
 
 - Space complexity is O(1) because an extra variable is used for swapping.
 
-- In the optimized bubble sort algorithm, two extra variables are used. Hence, the space complexity will be O(2).
+- In the optimized bubble sort algorithm, two extra variables are used. Hence, the space complexity will be O(n^2).
 </ol>
 
 # Bubble Sort Applications
